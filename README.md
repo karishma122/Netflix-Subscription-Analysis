@@ -6,7 +6,7 @@ Welcome to the **Netflix Subscription Analysis** project! This project explores 
 
 ## Project Overview 🌟
 
-This project leverages data analysis techniques to uncover trends in Netflix subscriptions. We use Jupyter Notebook and Python for exploratory data analysis (EDA) and visualization.
+This project leverages data analysis techniques to uncover trends in Netflix subscriptions. Using Jupyter Notebook and Python for exploratory data analysis (EDA) and visualization.
 
 ## Dataset 📁
 
