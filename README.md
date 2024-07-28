@@ -80,6 +80,7 @@ To get started with this project:
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
+- **Check out my project write-up on Medium**: [Netflix Subscription Analysis](https://medium.com/@jainkarishma0102/netflix-subscription-analysis-a01552f40d53)
 ## Contact Information 📬
 
 If you have any questions, suggestions, or feedback regarding the Netflix Subscription Analysis project, feel free to reach out to me:
