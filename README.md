@@ -63,7 +63,7 @@ To get started with this project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/netflix-subscription-analysis.git
+   git clone https://github.com/karishma122/netflix-subscription-analysis.git
 
 2. **Navigate to the Project Directory**
     ```bash
